@@ -1,0 +1,2 @@
+# permissions
+Permissões do Discord
